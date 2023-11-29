@@ -25,9 +25,9 @@
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
         {% if site.show_downloads %}
-        <ul class="downloads">
+        <ul class="downloads" style="width: 180px">
           <li><a href="{{ site.docs.pdf_url }}">Download <strong>PDF</strong></a></li>
-          <li><a href="{{ site.docs.doc_url }}">Download <strong>DOC</strong></a></li>
+          <li style="border-right: none"><a href="{{ site.docs.doc_url }}">Download <strong>DOC</strong></a></li>
         </ul>
         {% endif %}
       </header>
