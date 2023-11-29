@@ -1,0 +1,8 @@
+theme: jekyll-theme-minimal
+title: 💻✒️📄🌟
+description: Vagia Chouchouli's CV
+show_downloads: 'true'
+docs:
+  pdf_url: 'docs/CV - Vagia Chouchouli - 2023.pdf'
+  doc_url: 'docs/CV - Vagia Chouchouli - 2023.doc'
+  odt_url: 'docs/CV - Vagia Chouchouli - 2023.odt'
