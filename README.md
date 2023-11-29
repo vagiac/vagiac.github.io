@@ -70,20 +70,18 @@ A Food Technologist with an MSc in nutrition and public health and 17 years of e
 
 ## EDUCATION & TRAINING 
 
-2008 – 2012: Harokopio University of Athens, Department of Nutrition and Dietetics MSc Applied nutrition and dietetics – nutrition and public health
+*2008 – 2012: Harokopio University of Athens, Department of Nutrition and Dietetics*
+MSc Applied nutrition and dietetics – nutrition and public health
 
 Principal subjects:
-
 Nutrition & Metabolism, Food quality and safety, Novel and functional food, Research methods and statistics, Biochemistry
 
 Publication: V.Chouchouli et al(2013). Fortification of yoghurt with grape (vitis vinifera) seed extracts. LWT-Food Science and Technology, 1-8
 
-1999 – 2004: Technological Institution of Athens, Department of Food Technology and Nutrition
-
+*1999 – 2004: Technological Institution of Athens, Department of Food Technology and Nutrition*
 BSc Food Technology
 
-## Principal subjects
-
+Principal subjects:
 Food microbiology, Chemistry, Biotechnology, Biochemistry, Food processing, Quality control of meat & meat products, cereals, dairy products, oil and fat, fruit & vegetables, Food packaging, Statistics, Food legislation
 
 Thesis: The preference of European consumers in food
