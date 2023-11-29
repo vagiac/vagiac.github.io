@@ -1,4 +1,4 @@
-# Vagia Chouchouli
+# Vaia Chouchouli
 
 [Email](mailto:vagiac@yahoo.com) / [LinkedIn](https://gr.linkedin.com/in/chouchouli-vaia-3849253a)
 
@@ -8,7 +8,12 @@ A Food Technologist with an MSc in nutrition and public health and 17 years of e
 
 ## TECHNICAL SKILLS
 
-...to be defined...
+|  Food Safety Management Systems  			 (Development, implementation, audit) 		 | HACCP  			 ISO 22000  |
+| :---                                                                    | :---                                                                                         |
+|  Legislation  			 (Food, Pet food, Food contact materials) 	  | EU legislation   Greek legislation   Codex Alimentarius  	 BfR Recommendations             |
+|  Laboratory skills	                                                  | Food microbiology  physico – chemical analyses, ELISA   Sensory evaluations                  |
+|  Computer skills                                                        | Microsoft Office &Libre Office (Proficient level)   Predictive microbiology tools            |
+|  Languages                                                              | Greek (Mother tongue)  English (Proficient level)  French (Mediocre)  Spanish (Beginner)	 |
 
 ## KEY ACHIEVEMENTS
 
