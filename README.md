@@ -2,11 +2,11 @@
 
 [Email](mailto:vagiac@yahoo.com) / [LinkedIn](https://gr.linkedin.com/in/chouchouli-vaia-3849253a)
 
-PROFILE 
+## PROFILE 
 
 A Food Technologist with an MSc in nutrition and public health and 17 years of experience in the food sector. Worked in Laboratory, Quality assurance, Quality control and Quality management departments, with thorough knowledge of food, pet food, food contact materials legislation, international standards, development, implementation, and audit of food safety standards. Highly organized person, open-minded, persistent, restless spirit, always seeking for the best result.
 
-TECHNICAL SKILLS
+## TECHNICAL SKILLS
 
 ...to be defined...
 
