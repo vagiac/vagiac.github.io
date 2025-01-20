@@ -91,6 +91,13 @@ Food microbiology, Chemistry, Biotechnology, Biochemistry, Food processing, Qual
 
 **Thesis**: The preference of European consumers in food
 
+## Certificates
+
+- **Plastics Conference (Athens)** - 2024, 2022,2021
+- **Food shelf life prediction methodology** (Agricultural University ofThessaloniki) - 2012
+- **ISO 22000** (TUV Hellas) - 2006
+- **Development, Implementation and Audit of HACCP Certification** (National Technical University of Athens) - 2005
+
 ## PROFESSIONAL MEMBERSHIPS 
 
 Registered trainer at the Hellenic Food Authority (EFET)
